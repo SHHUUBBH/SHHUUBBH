@@ -1,7 +1,6 @@
 ### 💻 About Me
 - 🎓 2nd-year student at Jagran Lakecity University 
 - 🚀 Passionate about Web Dev, Python & Intermediate Coding
-- 🎯 Goal: 10 Lakh package 💰
 
 ### 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-green?style=flat-square&logo=python)

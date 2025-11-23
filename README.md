@@ -1,6 +1,6 @@
 ### 💻 About Me
-- 🎓 2nd-year student at Jagran Lakecity University 
-- 🚀 Passionate about Web Dev, Python & Intermediate Coding
+- 🎓 BCA Data Science student at Jagran Lakecity University 
+- 🚀 Aspiring Data Scientist
 
 ### 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-green?style=flat-square&logo=python)

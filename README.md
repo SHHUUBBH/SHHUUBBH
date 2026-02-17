@@ -1,35 +1,27 @@
-### 💻 About Me
-- 🎓 BCA Data Science student at Jagran Lakecity University 
-- 🚀 Aspiring Data Scientist
-
-### 🛠 Tech Stack
-![Python](https://img.shields.io/badge/-Python-green?style=flat-square&logo=python)
-![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
-
-### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SHHUUBBH_icons=true&theme=dark)
+# 💫 About Me:
+🎓 CS student focused on Data Science, Python, and Analytics<br><br>📊 Love turning raw data into insights with EDA & visualizations<br><br>🤖 Exploring AI & ML through hands-on projects<br><br>🛠️ Strong believer in clean code & reproducible workflows<br><br>🚀 Building real-world projects & learning every day<br><br>🌱 Growing into a Data Analyst / Data Scientist
 
 
-<a href="https://www.buymeacoffee.com/SUBHRO" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shhuubbh_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhro-pal-b00a60356/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/u/Real_Advance_2884/s/6xu11CKaUY) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shubhropal62@gmail.com) 
 
-### 🔥 Streak Stats
-![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SHHUUBBH&theme=dark)
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SHHUUBBH&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SHHUUBBH&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SHHUUBBH&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/SUBHRO-38b681263/)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://x.com/SUBNHRO83864282)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SHHUUBBH&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-const Subhro = {
-  pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, C++, C, Java],
-  tools: [React, Node],
- challenge: "I am doing the #100DaysOfCode challenge focused on react and javascript"
-}
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=SHHUUBBH&limit=5&theme=blue-green&combine_all_yearly_contributions=true)
 
-### 🐍 Contribution Graph Snake Game  
+---
+[![](https://visitcount.itsvg.in/api?id=SHHUUBBH&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Snake animation](https://github.com/SHHUUBBH/SHHUUBBH/blob/output/github-contribution-grid-snake.svg)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

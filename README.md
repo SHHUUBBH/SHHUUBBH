@@ -6,8 +6,12 @@
 # 💫 About Me:
 🎓 BCA (Hons.) Data Science student focused on Data Science, Python, and Analytics<br><br>📊 Love turning raw data into insights with EDA & visualizations<br><br>🤖 Exploring AI & ML through hands-on projects<br><br>🛠️ Strong believer in clean code & reproducible workflows<br><br>🚀 Building real-world projects & learning every day<br><br>🌱 Growing into a Data Analyst / Data Scientist
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SHHUUBBH&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SHHUUBBH&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SHHUUBBH&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shhuubbh_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhro-pal-b00a60356/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/u/Real_Advance_2884/s/6xu11CKaUY) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shubhropal62@gmail.com) 
 
 # 💻 Tech Stack:
@@ -52,7 +56,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SHHUUBBH&limit=5&theme=blue-green&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=SHHUUBBH&limit=6&theme=blue-green&combine_all_yearly_contributions=true)
 
 [![](https://visitcount.itsvg.in/api?id=SHHUUBBH&icon=0&color=0)](https://visitcount.itsvg.in)
 

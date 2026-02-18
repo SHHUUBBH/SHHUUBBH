@@ -14,10 +14,17 @@
 </div>
 
 # 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=SHHUUBBH&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SHHUUBBH&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SHHUUBBH&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
+
+## 🌍👤🔍 Profile Views
+![](https://komarev.com/ghpvc/?username=SHHUUBBH&label=PROFILE+VIEWS&color=008846&base=230&style=flat)
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
@@ -80,19 +87,12 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
 
-## Profile Stats
-<img src="https://github-readme-stats.vercel.app/api?username=SHHUUBBH&theme=blue-green&show_icons=true&hide_border=true&count_private=true" alt="SHHUUBBH's GitHub Stats" />
+## 📊 Profile Statistics
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SHHUUBBH&theme=blue_green)
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
 
-## 🌍👤🔍 Profile Views
-![](https://komarev.com/ghpvc/?username=SHHUUBBH&label=PROFILE+VIEWS&color=008846&base=230&style=flat)
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
-</div>
-
-# 🐍 Snake Game
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
@@ -100,21 +100,20 @@
 </picture>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
-</div>
 
-<h1 style="display: flex; align-items: center; gap: 10px; margin: 0;">
-  <img src="https://github.com/user-attachments/assets/466e6467-8eaf-4fdc-92bc-ba9e25d262af"
-       width="32"
-       height="32"
-       style="vertical-align: middle; margin-right: 8px;" /> Pacman Game
-</h1>
+💬 *Where data meets decisions, and ideas become code 📊🤖*
+
+Thanks for stopping by! 😊  
+I enjoy building meaningful projects, learning in public,  
+and connecting with curious minds 🤝
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
+
+⭐ From **Subhro Pal** with ❤️
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />

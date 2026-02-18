@@ -73,6 +73,9 @@
   <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/a96f28b3-984b-4410-a63f-2149f4c3ffc6" />
 </p>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)

@@ -76,9 +76,18 @@
 
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SHHUUBBH&limit=6&theme=blue-green&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
 
-![](https://visitcount.itsvg.in/api?id=SHHUUBBH&icon=0&color=0)](https://visitcount.itsvg.in)
+## Profile Stats
+<img src="https://github-readme-stats.vercel.app/api?username=SHHUUBBH&theme=blue-green&show_icons=true&hide_border=true&count_private=true" alt="SHHUUBBH's GitHub Stats" />
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
 
+## 🌍👤🔍 Profile Views
+![](https://komarev.com/ghpvc/?username=SHHUUBBH&label=PROFILE+VIEWS&color=008846&base=230&style=flat)
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>

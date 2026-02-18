@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Subhro Pal</h1>
+
+<img src="https://i.pinimg.com/originals/34/16/fc/3416fc4113b69a0bf1cc75a772c4b5c4.gif" alt="Banner" width="100%" />
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
 
-<img src="https://i.pinimg.com/originals/34/16/fc/3416fc4113b69a0bf1cc75a772c4b5c4.gif" alt="Banner" width="100%" />
-
----
 # 💫 About Me:
 🎓 BCA (Hons.) Data Science student focused on Data Science, Python, and Analytics<br><br>📊 Love turning raw data into insights with EDA & visualizations<br><br>🤖 Exploring AI & ML through hands-on projects<br><br>🛠️ Strong believer in clean code & reproducible workflows<br><br>🚀 Building real-world projects & learning every day<br><br>🌱 Growing into a Data Analyst / Data Scientist
 
